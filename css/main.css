@@ -2174,7 +2174,6 @@ body.menu-is-open {
   font-family: "Nunito Sans", sans-serif;
   font-weight: 600;
   font-size: 1.3rem;
-  line-height: 1;
   color: #9c9c9c;
   text-transform: uppercase;
   letter-spacing: .5rem;
@@ -3437,6 +3436,7 @@ html.no-csstransitions .home-content__main {
 
 .testimonials__slider .slick-slide {
   outline: none;
+  height: auto;
 }
 
 .testimonials__slider .slick-dots {
