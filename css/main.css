@@ -2197,7 +2197,7 @@ body.menu-is-open {
 }
 
 .privacy-content {
-  display: table-cell;
+  display: flex;
   padding-top: 6.6rem;
   width: 100%;
   overflow: hidden;
