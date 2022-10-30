@@ -2212,7 +2212,7 @@ body.menu-is-open {
   margin-bottom: 0;
   font-size: 1em;
 }
-.privacy-content h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+.privacy-content h1,.privacy-content h2,.privacy-content h3,.privacy-content h4,.privacy-content h5,.privacy-content h6,.privacy-content .h1,.privacy-content .h2,.privacy-content .h3,.privacy-content .h4,.privacy-content .h5,.privacy-content .h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: black;
